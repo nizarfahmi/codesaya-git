@@ -532,3 +532,10 @@ Github: rambers
 Nama: Rahmad
 Website: https://rambers.com/
 Pesan: Semoga CodeSaya makin maju dan banyak fitur yang baru agar teman-teman yang ingin belajar makin nyaman.
+
+Entry: 75
+CodeSaya: nizarfahmi
+Github: nizarfahmi
+Nama: Nizar Fahmi B.
+Website: -
+Pesan: -
